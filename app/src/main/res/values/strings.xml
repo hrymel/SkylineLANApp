@@ -10,4 +10,7 @@
     <string name="main_Title">LAN Party</string>
     <string name="run_the_world">Who runs the world?</string>
     <string name="image_alt">Games system.</string>
+    <string name="home_subtitle1">What is the Skyline LAN Party?</string>
+    <string name="home_blurb1">The Skyline LAN Party is an event where people LAN. All the LANing. All of it. Things occur but sometimes they don\'t. There can be food. Sometime we help people.</string>
+    <string name="person_blurb1">This is information about a person.</string>
 </resources>
